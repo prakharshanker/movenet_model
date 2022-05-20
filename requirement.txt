@@ -1,0 +1,4 @@
+itensorflow==2.9.0
+numpy==1.22.3
+opencv-python==4.5.5
+matplotlib==3.5.2
